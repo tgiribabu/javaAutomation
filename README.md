@@ -1,7 +1,7 @@
 # javaAutomation
 
 ********** Task1 *********
-RC
+RC :  https://www.selenium.dev/documentation/legacy/selenium_1/
 Webdriver
 WebdriverManager
 Remote Webdriver
